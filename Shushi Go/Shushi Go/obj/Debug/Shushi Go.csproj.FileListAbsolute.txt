@@ -1,0 +1,36 @@
+H:\Comp 104\Assignment 2\Shushi Go\Shushi Go\bin\Debug\Shushi Go.exe.config
+F:\Documents\Waikato University 2017\Comp 104\Assignment 2\Shushi Go\Shushi Go\bin\Debug\Shushi Go.exe.config
+F:\Documents\Waikato University 2017\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.csprojResolveAssemblyReference.cache
+F:\Documents\Waikato University 2017\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi_Go.Properties.Resources.resources
+F:\Documents\Waikato University 2017\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.csproj.GenerateResource.Cache
+F:\Documents\Waikato University 2017\Comp 104\Assignment 2\Shushi Go\Shushi Go\bin\Debug\Shushi Go.exe
+F:\Documents\Waikato University 2017\Comp 104\Assignment 2\Shushi Go\Shushi Go\bin\Debug\Shushi Go.pdb
+F:\Documents\Waikato University 2017\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi_Go.MainCode.resources
+F:\Documents\Waikato University 2017\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.exe
+F:\Documents\Waikato University 2017\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.pdb
+D:\Comp 104\Assignment 2\Shushi Go\Shushi Go\bin\Debug\Shushi Go.exe.config
+D:\Comp 104\Assignment 2\Shushi Go\Shushi Go\bin\Debug\Shushi Go.exe
+D:\Comp 104\Assignment 2\Shushi Go\Shushi Go\bin\Debug\Shushi Go.pdb
+D:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.csprojResolveAssemblyReference.cache
+D:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi_Go.MainCode.resources
+D:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi_Go.Properties.Resources.resources
+D:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.csproj.GenerateResource.Cache
+D:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.exe
+D:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.pdb
+H:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.exe
+H:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.pdb
+H:\Comp 104\Assignment 2\Shushi Go\Shushi Go\bin\Debug\Shushi Go.exe
+H:\Comp 104\Assignment 2\Shushi Go\Shushi Go\bin\Debug\Shushi Go.pdb
+H:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.csprojResolveAssemblyReference.cache
+H:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi_Go.MainCode.resources
+H:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi_Go.Properties.Resources.resources
+H:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.csproj.GenerateResource.Cache
+K:\Comp 104\Assignment 2\Shushi Go\Shushi Go\bin\Debug\Shushi Go.exe.config
+K:\Comp 104\Assignment 2\Shushi Go\Shushi Go\bin\Debug\Shushi Go.exe
+K:\Comp 104\Assignment 2\Shushi Go\Shushi Go\bin\Debug\Shushi Go.pdb
+K:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.csprojAssemblyReference.cache
+K:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi_Go.MainCode.resources
+K:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi_Go.Properties.Resources.resources
+K:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.csproj.GenerateResource.cache
+K:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.exe
+K:\Comp 104\Assignment 2\Shushi Go\Shushi Go\obj\Debug\Shushi Go.pdb
