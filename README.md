@@ -1,1 +1,1 @@
-# Shushi-Go
+# Sushi-Go
